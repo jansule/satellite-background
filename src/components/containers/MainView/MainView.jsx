@@ -5,6 +5,7 @@ import Header from '../../UI/Header/Header';
 class MainView extends Component {
     render() {
         const imgPath = "";
+
         return (
             <div className={"App"}>
                 <Header>Satellite-Background</Header>
